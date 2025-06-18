@@ -57,3 +57,4 @@ On successful decryption, the plaintext is saved with a .dec extension.
 ##
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ee9c7b24-d690-4edf-b5c1-d62dd17fb37d)
